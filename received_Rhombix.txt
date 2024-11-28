@@ -1,0 +1,1 @@
+Develop a secure file transfer application with end- to-end encryption. Ensure the confidentiality and integrity of transferred files, and implement access controls and audit logs
